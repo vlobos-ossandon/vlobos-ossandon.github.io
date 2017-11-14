@@ -1,9 +1,9 @@
 # main text of home
 name: Valeria Paulina Lobos Ossandón.
-bio: 'Physics, Teaching, Engineering.'
+bio: 'Researcher and Data Scientist'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+#description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
@@ -25,17 +25,17 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-twitter: NivedithaRam
+facebook: https://www.facebook.com/valeria.lobosossandon
+#twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+#github: NivedithaRam
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: vlobos@fen.uchile.cl
 
 authors:
     NivedithaRam:
