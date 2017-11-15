@@ -17,7 +17,7 @@ I have also worked in other projects. I started with Bibliometric research, by r
 </p>
 
 <p align="justify">
-My first step into research was through teaching. I have taught courses related to Information Systems at FEN and to Web Intelligence in the Engineering Faculty. More details of my teaching journey can be found [here.](https://vlobos-ossandon.github.io/teaching/).
+My first step into research was through teaching. I have taught courses related to Information Systems at FEN and to Web Intelligence in the Engineering Faculty. More details of my teaching journey can be found <a href="https://vlobos-ossandon.github.io/teaching/" target="_blank">here</a>.
 </p>
 
 <p align="justify">
@@ -25,7 +25,7 @@ More information on my academic journey can be found in my CV.
 </p>
 
 <p align="justify">
-Although I love researching and teaching, I have other interest. I am all about the make-up world: I truly believe that make-up is another way of art. I also like oleo-painting. I painted since I was 8 years-old. I also enjoy doing yoga: it keeps my mind in pace and it is also a great excersise! Finally, a few months ago I started pole-dancing lessons. Pole-dancing is a fun challenge!
+Although I love researching and teaching, I have other interests. I am all about the make-up world: I truly believe that make-up is another way of art. I also like oleo-painting. I painted since I was 8 years-old. I also enjoy doing yoga: it keeps my mind in pace and it is also a great excersise! Finally, a few months ago I started pole-dancing lessons. Pole-dancing is a fun challenge! (but sometimes it hurts a lot!!)
 </p>
 
 <p align="justify">
