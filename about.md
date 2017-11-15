@@ -4,6 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<p align="justify">
 Hi! I am a researcher at [Web Intelligence Centre](http://wic.cl/?page_id=52) of the Engineering Faculty, Universidad de Chile. I studied Engineering in Information Systems and Management Research at the Economy and Business Faculty (FEN), Universidad de Chile.  
 
 I am currently working in [Akori's Project](https://www.akoriproject.cl/). Akori's Project uses biometric data for predicting clicks in a web site. I am currently working at the segmentation between web users, by using eye-tracker data. In parallel, I also work in developing a bibliometric tool for reviewing journals impact.
@@ -17,3 +18,5 @@ More information on my academic journey can be found in my CV.
 Although I love researching and teaching, I have other interest. I am all about the make-up world: I truly believe that make-up is another way of art. I also like oleo-painting. I painted since I was 8 years-old. I also enjoy doing yoga: it keeps my mind in pace and it is also a great excersise! Finally, a few months ago I started pole-dancing lessons. Pole-dancing is a fun challenge!
 
 Feel free to write to me with any questions or opportunities in teaching that you think will interest me! 
+
+</p>
