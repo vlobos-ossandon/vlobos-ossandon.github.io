@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p align="justify">
-Hi! I am a researcher at <a href="http://wic.cl/" target="_blank">Web Intelligence Centre</a> of the Engineering Faculty, Universidad de Chile. I studied Engineering in Information Systems and Management Research at the Economy and Business Faculty (FEN), Universidad de Chile.  
+Hi! I am a researcher and data scientist at <a href="http://wic.cl/" target="_blank">Web Intelligence Centre</a> of the Engineering Faculty, Universidad de Chile. I studied Engineering in Information Systems and Management Research at the Economy and Business Faculty (FEN), Universidad de Chile.  
 </p>
 
 <p align="justify">
