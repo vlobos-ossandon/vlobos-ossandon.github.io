@@ -29,7 +29,7 @@ My first step into research was through teaching. I have taught courses related 
 </p>
 
 <p align="justify">
-For further information on my academic journey, download my CV.
+For further information on my academic history, download my <a href="/assets/images/CV_VLOBOS.pdf">CV</a>.
 </p>
 
 <p align="justify">
