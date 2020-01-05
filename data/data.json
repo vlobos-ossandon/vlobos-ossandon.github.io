@@ -1,0 +1,3111 @@
+{
+    "name": "CUP",
+    "children": [
+        {
+            "name": "12_001_Agro pecuarios, silvícolas y pescados",
+            "children": [
+                {
+                    "name": "45_001_Agrícolas",
+                    "children": [
+                        {
+                            "name": "89_001_Agrícolas",
+                            "children": [
+                                {
+                                    "name": "110_001_Cultivos anuales (cereales y otros) y forrajeras",
+                                    "children": [
+                                        {
+                                            "name": "181_001_Trigo",
+                                            "children": [
+                                                {
+                                                    "name": "270_001_Trigo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_002_Maíz",
+                                            "children": [
+                                                {
+                                                    "name": "270_002_Maíz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_003_Otros cereales",
+                                            "children": [
+                                                {
+                                                    "name": "270_003_Arroz"
+                                                },
+                                                {
+                                                    "name": "270_004_Cebada"
+                                                },
+                                                {
+                                                    "name": "270_005_Avena"
+                                                },
+                                                {
+                                                    "name": "270_006_Otro cereales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_004_Tubérculos y legumbres",
+                                            "children": [
+                                                {
+                                                    "name": "270_007_Tubérculos"
+                                                },
+                                                {
+                                                    "name": "270_008_Legumbres"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_005_Forrajeras y otros cultivos de uso industrial",
+                                            "children": [
+                                                {
+                                                    "name": "270_009_Oleoginosas, plantas bebestibles y especias"
+                                                },
+                                                {
+                                                    "name": "270_010_Tabaco"
+                                                },
+                                                {
+                                                    "name": "270_011_Plantas utilizadas en la fab. de azúcar y endulzantes"
+                                                },
+                                                {
+                                                    "name": "270_012_Otros prod. agrícolas de uso industrial"
+                                                },
+                                                {
+                                                    "name": "270_013_Forrajeras"
+                                                },
+                                                {
+                                                    "name": "270_014_Prod. de vivero, plantas vivas, flores y semillas"
+                                                },
+                                                {
+                                                    "name": "270_015_Materias vegetales en bruto para uso textil, perfumería y medicina"
+                                                },
+                                                {
+                                                    "name": "270_016_Aceitunas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_002_Cultivo de hortalizas y prod. viveros",
+                                    "children": [
+                                        {
+                                            "name": "181_006_Hortalizas y setas",
+                                            "children": [
+                                                {
+                                                    "name": "270_017_Raíces y bulbos, hortalizas de hojas, tallo o flor que producen frutos; setas y trufas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_002_Frutas",
+                    "children": [
+                        {
+                            "name": "89_002_Frutas",
+                            "children": [
+                                {
+                                    "name": "110_003_Cultivo de uvas",
+                                    "children": [
+                                        {
+                                            "name": "181_007_Uva vinífera y pesquera",
+                                            "children": [
+                                                {
+                                                    "name": "270_018_Uva vinífera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_008_Uva de mesa",
+                                            "children": [
+                                                {
+                                                    "name": "270_019_Uva de mesa"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_004_Cultivo de otras frutas",
+                                    "children": [
+                                        {
+                                            "name": "181_009_Paltas",
+                                            "children": [
+                                                {
+                                                    "name": "270_020_Paltas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_010_Kiwis y otras frutas tropicales",
+                                            "children": [
+                                                {
+                                                    "name": "270_021_Kiwis y otras frutas subtropicales y tropicales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_011_Otras frutas",
+                                            "children": [
+                                                {
+                                                    "name": "270_022_Agrios o frutas cítricas, frescas o secas"
+                                                },
+                                                {
+                                                    "name": "270_023_Peras, membrillos frescos y otras pómaceas"
+                                                },
+                                                {
+                                                    "name": "270_024_Frutos de cáscara, frescos o secos, de clima templado, incluso sn cárcara o mondados"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_012_Manzanas",
+                                            "children": [
+                                                {
+                                                    "name": "270_025_Manzanas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_013_Duraznos y otros carozos",
+                                            "children": [
+                                                {
+                                                    "name": "270_026_Fruta de hueso (carozo) frescas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_014_Arándanos y otras bayas",
+                                            "children": [
+                                                {
+                                                    "name": "270_027_Bayas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_003_Ganado y prod. pecuarios",
+                    "children": [
+                        {
+                            "name": "89_003_Ganado y prod. pecuarios",
+                            "children": [
+                                {
+                                    "name": "110_005_Cría de aves de corral",
+                                    "children": [
+                                        {
+                                            "name": "181_015_Aves de corral",
+                                            "children": [
+                                                {
+                                                    "name": "270_028_Aves"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_006_Cría de cerdos",
+                                    "children": [
+                                        {
+                                            "name": "181_016_Cerdos",
+                                            "children": [
+                                                {
+                                                    "name": "270_029_Cerdos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_007_Cría de ganado bovino",
+                                    "children": [
+                                        {
+                                            "name": "181_017_Ganado bovino",
+                                            "children": [
+                                                {
+                                                    "name": "270_030_Bovinos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_008_Cría de otros animales",
+                                    "children": [
+                                        {
+                                            "name": "181_018_Otros animales y prod. pecuarios",
+                                            "children": [
+                                                {
+                                                    "name": "270_031_Ovinos"
+                                                },
+                                                {
+                                                    "name": "270_032_Otros animales vivos no considerados anteriormente"
+                                                },
+                                                {
+                                                    "name": "270_033_Materias animales en bruto, de uso textil y otros prod. animales impropios para la alimentación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_019_Leche sin procesar",
+                                            "children": [
+                                                {
+                                                    "name": "270_034_Leche"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_020_Huevos",
+                                            "children": [
+                                                {
+                                                    "name": "270_035_Huevos y otros prod. pecuarios para el consumo"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_004_Pescados y mariscos",
+                    "children": [
+                        {
+                            "name": "89_004_Pescados y mariscos",
+                            "children": [
+                                {
+                                    "name": "110_009_Acuicultura",
+                                    "children": [
+                                        {
+                                            "name": "181_021_Salmones y truchas de cultivo",
+                                            "children": [
+                                                {
+                                                    "name": "270_036_Salmónidos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_010_Pesca extractiva",
+                                    "children": [
+                                        {
+                                            "name": "181_022_Otros pescados, mariscos y algas",
+                                            "children": [
+                                                {
+                                                    "name": "270_037_Anchoveta"
+                                                },
+                                                {
+                                                    "name": "270_038_Sardina"
+                                                },
+                                                {
+                                                    "name": "270_039_Jurel"
+                                                },
+                                                {
+                                                    "name": "270_040_Merluza"
+                                                },
+                                                {
+                                                    "name": "270_041_Otros peces y pescados"
+                                                },
+                                                {
+                                                    "name": "270_042_Crustáceos, moluscos y otros invertebrados acuáticos"
+                                                },
+                                                {
+                                                    "name": "270_043_Algas y otros prod. acuáticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_005_prod. silvícolas",
+                    "children": [
+                        {
+                            "name": "89_005_Prod. silvícolas",
+                            "children": [
+                                {
+                                    "name": "110_011_Silvicultura y extracción de madera",
+                                    "children": [
+                                        {
+                                            "name": "181_023_Coníferas",
+                                            "children": [
+                                                {
+                                                    "name": "270_044_Plantaciones, troncos y trozas de madera de pino insigne y otras coníferas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_024_Eucaliptus",
+                                            "children": [
+                                                {
+                                                    "name": "270_045_Plantaciones, troncos y trozas de madera de eucaliptus"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_025_Leña y otros prod. silvícolas",
+                                            "children": [
+                                                {
+                                                    "name": "270_046_Otras plantaciones y maderas en bruto de especies foráneas"
+                                                },
+                                                {
+                                                    "name": "270_047_Plantaciones, troncos y trozas de maderas autóctonas o nativas"
+                                                },
+                                                {
+                                                    "name": "270_048_Leña y otros prod. silvícolas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_002_Administración pública",
+            "children": [
+                {
+                    "name": "45_006_Administración pública",
+                    "children": [
+                        {
+                            "name": "89_006_Administración pública",
+                            "children": [
+                                {
+                                    "name": "110_012_Administración pública",
+                                    "children": [
+                                        {
+                                            "name": "181_026_Serv. de admin. pública",
+                                            "children": [
+                                                {
+                                                    "name": "270_049_Serv. de admin. pública y defensa"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_003_Construcción",
+            "children": [
+                {
+                    "name": "45_007_Edificaciones",
+                    "children": [
+                        {
+                            "name": "89_007_Edificios residenciales",
+                            "children": [
+                                {
+                                    "name": "110_013_Const. de edificios residenciales",
+                                    "children": [
+                                        {
+                                            "name": "181_027_Edificios residenciales",
+                                            "children": [
+                                                {
+                                                    "name": "270_050_Edificios residenciales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_008_Edificios no residenciales",
+                            "children": [
+                                {
+                                    "name": "110_014_Const. de edificios no residenciales",
+                                    "children": [
+                                        {
+                                            "name": "181_028_Edificios no residenciales",
+                                            "children": [
+                                                {
+                                                    "name": "270_051_Edificios no residenciales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_008_Obras de ingeniería y resto de servicios de la construcción",
+                    "children": [
+                        {
+                            "name": "89_009_Obras viales",
+                            "children": [
+                                {
+                                    "name": "110_015_Construcción de obras de ingeniería civil",
+                                    "children": [
+                                        {
+                                            "name": "181_029_Obras viales",
+                                            "children": [
+                                                {
+                                                    "name": "270_052_Obras viales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_010_Obras de generación, transmisión y distribución de energía eléctrica",
+                            "children": [
+                                {
+                                    "name": "110_016_Const. de obras de ingeniería civil",
+                                    "children": [
+                                        {
+                                            "name": "181_030_Obras de proyectos de energía eléctrica",
+                                            "children": [
+                                                {
+                                                    "name": "270_053_Obras de generación, transmisión y distribución de energía eléctrica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_011_Obras mineras",
+                            "children": [
+                                {
+                                    "name": "110_017_Const. de obras de ingeniería civil",
+                                    "children": [
+                                        {
+                                            "name": "181_031_Obras mineras",
+                                            "children": [
+                                                {
+                                                    "name": "270_054_Obras mineras"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_012_Otras obras de ingeniería",
+                            "children": [
+                                {
+                                    "name": "110_018_Const. de obras de ingeniería civil",
+                                    "children": [
+                                        {
+                                            "name": "181_032_Otras obras de ingeniería",
+                                            "children": [
+                                                {
+                                                    "name": "270_055_Otras obras de ingeniería"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_013_Serv. especializados de construcción",
+                            "children": [
+                                {
+                                    "name": "110_019_act. especializadas de construcción",
+                                    "children": [
+                                        {
+                                            "name": "181_033_Serv. de construcción",
+                                            "children": [
+                                                {
+                                                    "name": "270_056_Serv. especializados de construcción"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_004_Electricidad, gas, agua y gestión de desechos",
+            "children": [
+                {
+                    "name": "45_009_Energía y potencia eléctrica",
+                    "children": [
+                        {
+                            "name": "89_014_Energía y potencia eléctrica",
+                            "children": [
+                                {
+                                    "name": "110_020_Generación de electricidad",
+                                    "children": [
+                                        {
+                                            "name": "181_034_Energía y potencia eléctrica",
+                                            "children": [
+                                                {
+                                                    "name": "270_057_Energía y potencia eléctrica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_010_Electricidad, gas, agua y gestión de desechos (excepto energía y potencia eléctrica",
+                    "children": [
+                        {
+                            "name": "89_015_Distribución y transmisión eléctrica",
+                            "children": [
+                                {
+                                    "name": "110_021_Transmisión de electricidad",
+                                    "children": [
+                                        {
+                                            "name": "181_035_Serv. de transmisión de electricidad",
+                                            "children": [
+                                                {
+                                                    "name": "270_058_Serv. de transmisión de electricidad"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_022_Distribución de electricidad",
+                                    "children": [
+                                        {
+                                            "name": "181_036_Serv. de distribución de electricidad",
+                                            "children": [
+                                                {
+                                                    "name": "270_059_Serv. de distribución de electricidad y otros serv. asociados al suministro"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_016_Gas",
+                            "children": [
+                                {
+                                    "name": "110_023_Suministro de gas y vapor",
+                                    "children": [
+                                        {
+                                            "name": "181_037_Gas distribuido por ductos",
+                                            "children": [
+                                                {
+                                                    "name": "270_060_Serv. de distribución de gas y otros servicios asociados al suministro de gas, vapor y aire acondicionado"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_017_Agua",
+                            "children": [
+                                {
+                                    "name": "110_024_Suministro de agua",
+                                    "children": [
+                                        {
+                                            "name": "181_038_Agua",
+                                            "children": [
+                                                {
+                                                    "name": "270_061_Agua y servicios asociados, excepto servicios de alcantarillado y tratamiento de aguas residuales"
+                                                },
+                                                {
+                                                    "name": "270_062_Serv. de evacuación de aguas residuales"
+                                                },
+                                                {
+                                                    "name": "270_063_Serv. de tratamiento de aguas residuales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_018_Gestión de desechos",
+                            "children": [
+                                {
+                                    "name": "110_025_Gestión de desechos y reciclaje",
+                                    "children": [
+                                        {
+                                            "name": "181_039_Serv. de eliminación de desperdicios y reciclaje",
+                                            "children": [
+                                                {
+                                                    "name": "270_064_prod. reciclados"
+                                                },
+                                                {
+                                                    "name": "270_065_Serv. de eliminación de desperdicios, servicios de saneamiento y otros servicios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_005_prod. industriales",
+            "children": [
+                {
+                    "name": "45_011_Celulosa, papel e impresos",
+                    "children": [
+                        {
+                            "name": "89_019_Celulosa, papel y derivados",
+                            "children": [
+                                {
+                                    "name": "110_026_Fab. de celulosa",
+                                    "children": [
+                                        {
+                                            "name": "181_040_Celulosa",
+                                            "children": [
+                                                {
+                                                    "name": "270_066_Celulosa"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_041_Papel periódico",
+                                            "children": [
+                                                {
+                                                    "name": "270_067_Papel periódico"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_027_Fab. de envases de papel y cartón",
+                                    "children": [
+                                        {
+                                            "name": "181_042_Envases de papel y cartón",
+                                            "children": [
+                                                {
+                                                    "name": "270_068_Envases de papel y cartón; papel o cartón para reciclar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_028_Fab. de otros art. de papel y cartón",
+                                    "children": [
+                                        {
+                                            "name": "181_043_prod. tissue",
+                                            "children": [
+                                                {
+                                                    "name": "270_069_prod. tissue"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_044_Otros papeles y cartones",
+                                            "children": [
+                                                {
+                                                    "name": "270_070_Otros cartones, papeles y sus prod."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_020_Impresos y grabaciones",
+                            "children": [
+                                {
+                                    "name": "110_029_Imprentas",
+                                    "children": [
+                                        {
+                                            "name": "181_045_Libros, diarios, revistas y otros impresos",
+                                            "children": [
+                                                {
+                                                    "name": "270_071_Impresos y grabaciones"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_012_Combustibles",
+                    "children": [
+                        {
+                            "name": "89_021_Combustibles",
+                            "children": [
+                                {
+                                    "name": "110_030_Elab. de combustibles",
+                                    "children": [
+                                        {
+                                            "name": "181_046_Diésel",
+                                            "children": [
+                                                {
+                                                    "name": "270_072_Petróleo diésel (diesel oil)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_047_Gasolinas",
+                                            "children": [
+                                                {
+                                                    "name": "270_073_Gasolinas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_048_Kerosene",
+                                            "children": [
+                                                {
+                                                    "name": "270_074_Kerosene"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_049_Aceites combustibles",
+                                            "children": [
+                                                {
+                                                    "name": "270_075_Aceites combustibles"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_050_Gas licuado y otros combustibles",
+                                            "children": [
+                                                {
+                                                    "name": "270_076_Gas de petróleo y otros hidrocarburos gaseosos, excepto gas natural"
+                                                },
+                                                {
+                                                    "name": "270_077_Otros combustibles"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_013_Maderas y muebles",
+                    "children": [
+                        {
+                            "name": "89_022_Madera y prod. derivados",
+                            "children": [
+                                {
+                                    "name": "110_031_Aserrado y acepilladura de maderas",
+                                    "children": [
+                                        {
+                                            "name": "181_051_Madera aserrada, cepillada y astillada",
+                                            "children": [
+                                                {
+                                                    "name": "270_078_Madera aserr., cepill. y con librado continuo; rollizos sin impregnar; madera en bruto"
+                                                },
+                                                {
+                                                    "name": "270_079_Astillas y viruta de madera; aserrín"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_032_Fab. de prod. de madera",
+                                    "children": [
+                                        {
+                                            "name": "181_052_Tableros y madera prensada",
+                                            "children": [
+                                                {
+                                                    "name": "270_080_Tableros,paneles,chapas,hojas y demás (...)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_053_Otros prod. de madera",
+                                            "children": [
+                                                {
+                                                    "name": "270_081_Envases,cajas y demás prod. de carga (...)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_023_Muebles",
+                            "children": [
+                                {
+                                    "name": "110_033_Fab. de muebles",
+                                    "children": [
+                                        {
+                                            "name": "181_054_Muebles",
+                                            "children": [
+                                                {
+                                                    "name": "270_082_Muebles"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_014_Minerales no metálicos",
+                    "children": [
+                        {
+                            "name": "89_024_Vidrios",
+                            "children": [
+                                {
+                                    "name": "110_034_Fab. de vidrios y prod. de vidrio",
+                                    "children": [
+                                        {
+                                            "name": "181_055_Botellas de vidrios",
+                                            "children": [
+                                                {
+                                                    "name": "270_083_Botellas de vidrio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_056_Otros prod. de vidrio",
+                                            "children": [
+                                                {
+                                                    "name": "270_084_Los demás vidrios y prod. de vidrios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_025_Otros prod. minerales no metálicos",
+                            "children": [
+                                {
+                                    "name": "110_035_Fab. de hormigón y otros prod. minerales no metálicos",
+                                    "children": [
+                                        {
+                                            "name": "181_057_Otros prod. minerales no metálicos",
+                                            "children": [
+                                                {
+                                                    "name": "270_085_Art. de cemento, hormigón, asfalto, cerámica y piedra"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_058_Hormigón premezclado",
+                                            "children": [
+                                                {
+                                                    "name": "270_086_Hormigón premezclado"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_059_Mezclas asfálticas",
+                                            "children": [
+                                                {
+                                                    "name": "270_087_Asfalto"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_036_Fab. de cemento, cal y yeso",
+                                    "children": [
+                                        {
+                                            "name": "181_060_Cemento, cal y yeso",
+                                            "children": [
+                                                {
+                                                    "name": "270_088_Cemento, cal y yeso"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_015_Otros prod. alimenticios",
+                    "children": [
+                        {
+                            "name": "89_026_Aceites",
+                            "children": [
+                                {
+                                    "name": "110_037_Elab. de harina y aceite de pescado",
+                                    "children": [
+                                        {
+                                            "name": "181_061_Aceite de pescado",
+                                            "children": [
+                                                {
+                                                    "name": "270_089_Aceite de pescado"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_038_Elab. de aceites",
+                                    "children": [
+                                        {
+                                            "name": "181_062_Otros aceites y grasas",
+                                            "children": [
+                                                {
+                                                    "name": "270_090_Aceites y grasas de origen animal; excepto de pescado"
+                                                },
+                                                {
+                                                    "name": "270_091_Aceites y grasas de origen vegetal"
+                                                },
+                                                {
+                                                    "name": "270_092_Margarina y preparaciones similares"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_027_Alimento para animales",
+                            "children": [
+                                {
+                                    "name": "110_039_Elab. de alimento para animales",
+                                    "children": [
+                                        {
+                                            "name": "181_063_Alimento para peces",
+                                            "children": [
+                                                {
+                                                    "name": "270_093_Alimento para peces"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_064_Alimento para aves",
+                                            "children": [
+                                                {
+                                                    "name": "270_094_Alimento para aves"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_065_Otros alimentos para animales",
+                                            "children": [
+                                                {
+                                                    "name": "270_095_Alimento para cerdos, ganado y otros animales, excepto mascotas"
+                                                },
+                                                {
+                                                    "name": "270_096_Alimento para mascotas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_028_Azúcar y endulzantes",
+                            "children": [
+                                {
+                                    "name": "110_040_Elab. de prod. de molinería",
+                                    "children": [
+                                        {
+                                            "name": "181_066_Arroz y otros prod. de molinería",
+                                            "children": [
+                                                {
+                                                    "name": "270_097_Inulina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_041_Elab. de otros prod. alimenticios",
+                                    "children": [
+                                        {
+                                            "name": "181_067_Azúcar",
+                                            "children": [
+                                                {
+                                                    "name": "270_098_Azúcar"
+                                                },
+                                                {
+                                                    "name": "270_099_Melaza, pulpa de remolacha, bagazo y otros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_029_Carnes y derivados",
+                            "children": [
+                                {
+                                    "name": "110_042_Elab. y conservación de carne",
+                                    "children": [
+                                        {
+                                            "name": "181_068_Carne de bovino",
+                                            "children": [
+                                                {
+                                                    "name": "270_100_Carne de bovino y sus despojos apto para consumo humano"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_069_Carne de porcino",
+                                            "children": [
+                                                {
+                                                    "name": "270_101_Carne de porcino y sus despojos apto para consumo humano"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_070_Carne de ave",
+                                            "children": [
+                                                {
+                                                    "name": "270_102_Carne de ave y sus despojos apto para consumo humano"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_071_Cecinas y otras carnes",
+                                            "children": [
+                                                {
+                                                    "name": "270_103_Otras carnes y prod. de carne"
+                                                },
+                                                {
+                                                    "name": "270_104_Conserva y prepardos de carne, despojos de carne o sangre"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_030_Conservas de vegetales",
+                            "children": [
+                                {
+                                    "name": "110_043_Elab. y conservación de vegetales",
+                                    "children": [
+                                        {
+                                            "name": "181_072_Conservas de frutas y vegetales",
+                                            "children": [
+                                                {
+                                                    "name": "270_105_Frutas y hortalizas, preparadas y conservadas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_031_Lácteos",
+                            "children": [
+                                {
+                                    "name": "110_044_Elab. de prod. lácteos",
+                                    "children": [
+                                        {
+                                            "name": "181_073_Leche elaborada",
+                                            "children": [
+                                                {
+                                                    "name": "270_106_Leche líquida y cremas elaboradas"
+                                                },
+                                                {
+                                                    "name": "270_107_Leche y crema en estado sólido; otra leche y nata"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_074_Otros prod. lácteos",
+                                            "children": [
+                                                {
+                                                    "name": "270_108_Otros prod. lácteos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_032_Otros alimentos diversos",
+                            "children": [
+                                {
+                                    "name": "110_045_Elab. de otros prod. alimenticios",
+                                    "children": [
+                                        {
+                                            "name": "181_075_Otros prod. alimenticios",
+                                            "children": [
+                                                {
+                                                    "name": "270_109_Cacao, chocolate y art. de confitería prep. con azúcar"
+                                                },
+                                                {
+                                                    "name": "270_110_Alimentos diversos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_033_Pan y otros prod. de panadería",
+                            "children": [
+                                {
+                                    "name": "110_046_Elab. de prod. de panadería",
+                                    "children": [
+                                        {
+                                            "name": "181_076_Pan y otros prod. de panadería",
+                                            "children": [
+                                                {
+                                                    "name": "270_111_Pan"
+                                                },
+                                                {
+                                                    "name": "270_112_Tortas, queques y galletas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_034_Pastas y otros prod. farináceos",
+                            "children": [
+                                {
+                                    "name": "110_047_Elab. de fideos y pastas",
+                                    "children": [
+                                        {
+                                            "name": "181_077_Fideos y pastas",
+                                            "children": [
+                                                {
+                                                    "name": "270_113_Fideos y pastas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_035_prod. de molinería",
+                            "children": [
+                                {
+                                    "name": "110_048_Elab. de prod. de molinería",
+                                    "children": [
+                                        {
+                                            "name": "181_078_Harina y subprod. de trigo",
+                                            "children": [
+                                                {
+                                                    "name": "270_114_Harina y subprod. de trigo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_079_Arroz y otros prod. de molinería",
+                                            "children": [
+                                                {
+                                                    "name": "270_115_Otros prod. de molinería"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_016_Pescados y mariscos",
+                    "children": [
+                        {
+                            "name": "89_036_Pescados y mariscos procesados",
+                            "children": [
+                                {
+                                    "name": "110_049_Elab. y conservación de pescados y mariscos",
+                                    "children": [
+                                        {
+                                            "name": "181_080_Salmón y trucha regrigerados o congelados",
+                                            "children": [
+                                                {
+                                                    "name": "270_116_Salmónidos frescos, refrigerados o congelados"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_081_Otros pescados refrigerados o congelados",
+                                            "children": [
+                                                {
+                                                    "name": "270_117_Otros pescados, filetes de pescado,otras carnes de pescado"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_082_Conservas de pescados y mariscos",
+                                            "children": [
+                                                {
+                                                    "name": "270_118_Conservas y prep. de pescados; caviar"
+                                                },
+                                                {
+                                                    "name": "270_119_Crustáceos, moluscos y otros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_050_Elab. de harina y aceite de pescado",
+                                    "children": [
+                                        {
+                                            "name": "181_083_Harina de pescado",
+                                            "children": [
+                                                {
+                                                    "name": "270_120_Harina de pescado, crustáceos, moluscos y otros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_017_prod. de caucho y plástico",
+                    "children": [
+                        {
+                            "name": "89_037_prod. de caucho",
+                            "children": [
+                                {
+                                    "name": "110_051_Fab. de prod. de caucho",
+                                    "children": [
+                                        {
+                                            "name": "181_084_prod. de caucho",
+                                            "children": [
+                                                {
+                                                    "name": "270_121_Neumáticos"
+                                                },
+                                                {
+                                                    "name": "270_122_Otros prod. de caucho"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_038_prod. de plástico",
+                            "children": [
+                                {
+                                    "name": "110_052_Fab. de prod. de plásticos",
+                                    "children": [
+                                        {
+                                            "name": "181_085_prod. de plástico",
+                                            "children": [
+                                                {
+                                                    "name": "270_123_Monofilamentos, varillas, perfiles,tubos y otros"
+                                                },
+                                                {
+                                                    "name": "270_124_art. para el envasado de mercancías"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_018_prod. metálicos básicos",
+                    "children": [
+                        {
+                            "name": "89_039_prod. siderúrgicos",
+                            "children": [
+                                {
+                                    "name": "110_053_Industrias básicas de hierro y acero",
+                                    "children": [
+                                        {
+                                            "name": "181_086_Ferromolibdeno y otros de acero",
+                                            "children": [
+                                                {
+                                                    "name": "270_125_Ferromolibdeno y otros de acero"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_087_prod. de hierro y acero",
+                                            "children": [
+                                                {
+                                                    "name": "270_126_prod. de acero o hierro"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_040_prod. metalúrgicos",
+                            "children": [
+                                {
+                                    "name": "110_054_Industrias básicas de metales no ferrosos",
+                                    "children": [
+                                        {
+                                            "name": "181_088_prod. básicos de metales no ferrosos",
+                                            "children": [
+                                                {
+                                                    "name": "270_127_Otros prod. metálicos no ferrosos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_019_prod. metálicos y maquinaria y equipos",
+                    "children": [
+                        {
+                            "name": "89_041_Equipos de transporte",
+                            "children": [
+                                {
+                                    "name": "110_055_Fab. de equipo de transporte",
+                                    "children": [
+                                        {
+                                            "name": "181_089_Buses",
+                                            "children": [
+                                                {
+                                                    "name": "270_128_Buses"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_090_Automóviles",
+                                            "children": [
+                                                {
+                                                    "name": "270_129_Autos y SUV"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_091_Otros vehículos automotores",
+                                            "children": [
+                                                {
+                                                    "name": "270_130_Camiones, camionetas, tractores y otros; excepto buses, autos y SUVs"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_092_Otros equipos de transporte terrestre y sus parte y piezas",
+                                            "children": [
+                                                {
+                                                    "name": "270_131_Otros equipos de transporte terrestre"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_093_Material de transporte marítimo y aéreo",
+                                            "children": [
+                                                {
+                                                    "name": "270_132_Barcos y embarcaciones; aeronaves y sus piezas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_042_Maquinaria y equipo eléctrico y electrónico",
+                            "children": [
+                                {
+                                    "name": "110_056_Fab. de maquinaria y equipo eléc. y electró.",
+                                    "children": [
+                                        {
+                                            "name": "181_094_Computadores y sus componentes",
+                                            "children": [
+                                                {
+                                                    "name": "270_133_Equipos computacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_095_Televisores",
+                                            "children": [
+                                                {
+                                                    "name": "270_134_Televisores"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_096_Teléfonos móviles",
+                                            "children": [
+                                                {
+                                                    "name": "270_135_Teléfonos móviles y de red inalámbrica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_097_Otras maquinarias y equipo eléctricos",
+                                            "children": [
+                                                {
+                                                    "name": "270_136_Otros prod. electrónicos"
+                                                },
+                                                {
+                                                    "name": "270_137_Maquinaria y aparatos eléctricos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_043_Otra maquinaria y equipo",
+                            "children": [
+                                {
+                                    "name": "110_057_Fab. de maquinaria y equipo eléctrico y electrónico",
+                                    "children": [
+                                        {
+                                            "name": "181_098_Otras maquinarias de oficina",
+                                            "children": [
+                                                {
+                                                    "name": "270_138_Maquinaria de oficina, contabilidad e informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_099_Máquinas y aparatos de uso doméstico",
+                                            "children": [
+                                                {
+                                                    "name": "270_139_Máquinas y aparatos de uso doméstico, excepto radios, tv y similares"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_058_Fab. de maquinaria y equipo de uso industrial y doméstico",
+                                    "children": [
+                                        {
+                                            "name": "181_100_Maquinaria para uso industrial",
+                                            "children": [
+                                                {
+                                                    "name": "270_140_Maquinaria de uso industrial"
+                                                },
+                                                {
+                                                    "name": "270_141_Partes y piezas de maquinarias de uso industrial"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_044_prod. metálicos",
+                            "children": [
+                                {
+                                    "name": "110_059_Fab. de prod. metálicos",
+                                    "children": [
+                                        {
+                                            "name": "181_101_prod. metálicos de uso estructural",
+                                            "children": [
+                                                {
+                                                    "name": "270_142_prod. metál. estructurales; constr. prefabricadas metálicas;otros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_102_Otros prod. metálicos",
+                                            "children": [
+                                                {
+                                                    "name": "270_143_Otros prod. metálicos elaborados"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_020_prod. químicos",
+                    "children": [
+                        {
+                            "name": "89_045_Químicos básicos",
+                            "children": [
+                                {
+                                    "name": "110_060_Fab. de sust. químicas básicas",
+                                    "children": [
+                                        {
+                                            "name": "181_103_Otros prod. químicos básicos",
+                                            "children": [
+                                                {
+                                                    "name": "270_144_Metranol"
+                                                },
+                                                {
+                                                    "name": "270_145_Ácido sulfúrico"
+                                                },
+                                                {
+                                                    "name": "270_146_Otros prod. químicos básicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_104_Abonos y plaguicidas",
+                                            "children": [
+                                                {
+                                                    "name": "270_147_Abonos y plaguicidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_105_Óxido de molibdeno",
+                                            "children": [
+                                                {
+                                                    "name": "270_148_Óxidos de molibdeno"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_046_Otros prod. químicos",
+                            "children": [
+                                {
+                                    "name": "110_061_Fab. de pinturas y barnices",
+                                    "children": [
+                                        {
+                                            "name": "181_106_Pinturas y barnices",
+                                            "children": [
+                                                {
+                                                    "name": "270_149_Pinturas, barnices y prod. conexos; colores pintura artística, tintas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_062_Fab. de otros prod. químicos",
+                                    "children": [
+                                        {
+                                            "name": "181_107_Explosivos y detonadores",
+                                            "children": [
+                                                {
+                                                    "name": "270_150_Explosivos y detonadores"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_108_Otros prod. químicos",
+                                            "children": [
+                                                {
+                                                    "name": "270_151_Otros prod. químicos n.c.p."
+                                                },
+                                                {
+                                                    "name": "270_152_Fibras textiles manufacturadas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_047_prod. farmacéuticos y de higiene",
+                            "children": [
+                                {
+                                    "name": "110_063_Fab. de prod. de aseo y cosméticos",
+                                    "children": [
+                                        {
+                                            "name": "181_109_prod. de aseo y cosméticos",
+                                            "children": [
+                                                {
+                                                    "name": "270_153_Jabón, detergentes; prod. cosméticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_064_Fab. de prod. farmacéuticos",
+                                    "children": [
+                                        {
+                                            "name": "181_110_prod. farmacéuticos",
+                                            "children": [
+                                                {
+                                                    "name": "270_154_prod. farmacéuticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_021_prod. textiles",
+                    "children": [
+                        {
+                            "name": "89_048_Textiles",
+                            "children": [
+                                {
+                                    "name": "110_065_Fab. de prod. textiles",
+                                    "children": [
+                                        {
+                                            "name": "181_111_prod. textiles",
+                                            "children": [
+                                                {
+                                                    "name": "270_155_Fibras, hilados, hilos, tejidos, art. textiles"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_049_Prendas de vestir",
+                            "children": [
+                                {
+                                    "name": "110_066_Fab. de prendas de vestir",
+                                    "children": [
+                                        {
+                                            "name": "181_112_Prendas de vestir",
+                                            "children": [
+                                                {
+                                                    "name": "270_156_Prendas de vestir, accesorios y art. de peletería"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_050_Cueros",
+                            "children": [
+                                {
+                                    "name": "110_067_Elab. de cuero y sus prod.",
+                                    "children": [
+                                        {
+                                            "name": "181_113_Cueros y prod. de cuero",
+                                            "children": [
+                                                {
+                                                    "name": "270_157_Cuero y prod. de cuero; art. de viaje y talabartería"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_051_Calzado",
+                            "children": [
+                                {
+                                    "name": "110_068_Fab. de calzado",
+                                    "children": [
+                                        {
+                                            "name": "181_114_Calzado",
+                                            "children": [
+                                                {
+                                                    "name": "270_158_Calzado"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_022_Resto de bebidas y prod. del tabaco",
+                    "children": [
+                        {
+                            "name": "89_052_Piscos y otros licores",
+                            "children": [
+                                {
+                                    "name": "110_069_Elab. de piscos y otros licores",
+                                    "children": [
+                                        {
+                                            "name": "181_115_Piscos y otros licores",
+                                            "children": [
+                                                {
+                                                    "name": "270_159_Piscos y otros licores"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_053_Cervezas",
+                            "children": [
+                                {
+                                    "name": "110_070_Elab. de cervezas",
+                                    "children": [
+                                        {
+                                            "name": "181_116_Cervezas",
+                                            "children": [
+                                                {
+                                                    "name": "270_160_Cervezas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_054_Bebidas no alcohólicas",
+                            "children": [
+                                {
+                                    "name": "110_071_Elab. de bebidas no alcohólicas",
+                                    "children": [
+                                        {
+                                            "name": "181_117_Bebidas no alcohólicas",
+                                            "children": [
+                                                {
+                                                    "name": "270_161_Bebidas no alcohólicas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_055_prod. de tabaco",
+                            "children": [
+                                {
+                                    "name": "110_072_Elab. de prod. del tabaco",
+                                    "children": [
+                                        {
+                                            "name": "181_118_prod. de tabaco",
+                                            "children": [
+                                                {
+                                                    "name": "270_162_prod. de tabaco"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_023_Resto de manufacturas",
+                    "children": [
+                        {
+                            "name": "89_056_Otras manufacturas n.e.",
+                            "children": [
+                                {
+                                    "name": "110_073_Rep. de maquinaria y equipo de otras industrias manufactureras",
+                                    "children": [
+                                        {
+                                            "name": "181_119_Otros prod. manufactureros y desperdicios",
+                                            "children": [
+                                                {
+                                                    "name": "270_163_Otros prod. manufactureros"
+                                                },
+                                                {
+                                                    "name": "270_164_prod. reciclables"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_024_Vinos",
+                    "children": [
+                        {
+                            "name": "89_057_Vinos",
+                            "children": [
+                                {
+                                    "name": "110_074_Elab. de vinos",
+                                    "children": [
+                                        {
+                                            "name": "181_120_Vinos",
+                                            "children": [
+                                                {
+                                                    "name": "270_165_Vinos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_006_prod. mineros",
+            "children": [
+                {
+                    "name": "45_025_Cobre refinado",
+                    "children": [
+                        {
+                            "name": "89_058_Cobre refinado",
+                            "children": [
+                                {
+                                    "name": "110_075_Minería del cobre",
+                                    "children": [
+                                        {
+                                            "name": "181_121_Cobre",
+                                            "children": [
+                                                {
+                                                    "name": "270_166_Cobre refinado"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_026_Cobre sin refinar",
+                    "children": [
+                        {
+                            "name": "89_059_Cobre sin refinar",
+                            "children": [
+                                {
+                                    "name": "110_076_Minería del cobre",
+                                    "children": [
+                                        {
+                                            "name": "181_122_Cobre",
+                                            "children": [
+                                                {
+                                                    "name": "270_167_Cobre sin refinar, cenizas y residuos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_027_Min. de cobre y sus concentrados",
+                    "children": [
+                        {
+                            "name": "89_060_Min. de cobre y sus concentrados",
+                            "children": [
+                                {
+                                    "name": "110_077_Minería del cobre",
+                                    "children": [
+                                        {
+                                            "name": "181_123_Cobre",
+                                            "children": [
+                                                {
+                                                    "name": "270_168_Min. de cobre y sus concentrados"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_028_Otros minerales",
+                    "children": [
+                        {
+                            "name": "89_061_Carbón",
+                            "children": [
+                                {
+                                    "name": "110_078_Extracción de carbón",
+                                    "children": [
+                                        {
+                                            "name": "181_124_Carbón",
+                                            "children": [
+                                                {
+                                                    "name": "270_169_Carbón"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_062_Hierro",
+                            "children": [
+                                {
+                                    "name": "110_079_Minería del hierro",
+                                    "children": [
+                                        {
+                                            "name": "181_125_Hierro",
+                                            "children": [
+                                                {
+                                                    "name": "270_170_Mineral de hierro y sus concen. sin aglomerar"
+                                                },
+                                                {
+                                                    "name": "270_171_Pellet de hierro y otros min. de hierro"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_063_Otros minerales",
+                            "children": [
+                                {
+                                    "name": "110_080_Minería de otros metalíferos no ferrosos",
+                                    "children": [
+                                        {
+                                            "name": "181_126_Plata y otros metal. no ferrosos",
+                                            "children": [
+                                                {
+                                                    "name": "270_172_Plata"
+                                                },
+                                                {
+                                                    "name": "270_173_Resto de minería metálica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_127_Oro",
+                                            "children": [
+                                                {
+                                                    "name": "270_174_Oro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_128_Min. de molibdeno y sus concentrados",
+                                            "children": [
+                                                {
+                                                    "name": "270_175_Min. de molibdeno y sus concentrados"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_081_Explotación de otras minas y serv. de apoyo a la minería",
+                                    "children": [
+                                        {
+                                            "name": "181_129_Minerales no metálicos",
+                                            "children": [
+                                                {
+                                                    "name": "270_176_Minerales no metálicos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_029_Petróleo y gas natural",
+                    "children": [
+                        {
+                            "name": "89_064_Petróleo crudo",
+                            "children": [
+                                {
+                                    "name": "110_082_Extr. de petróleo y gas natural",
+                                    "children": [
+                                        {
+                                            "name": "181_130_Petróleo crudo",
+                                            "children": [
+                                                {
+                                                    "name": "270_177_Petróleo crudo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_131_Gas natural",
+                                            "children": [
+                                                {
+                                                    "name": "270_178_Gas natural"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_007_Serv. comerciales, restaurantes y hoteles",
+            "children": [
+                {
+                    "name": "45_030_Serv. comerciales",
+                    "children": [
+                        {
+                            "name": "89_065_Serv. comerciales",
+                            "children": [
+                                {
+                                    "name": "110_083_Comercio automotriz",
+                                    "children": [
+                                        {
+                                            "name": "181_132_Serv. comerciales de intermediación automotriz",
+                                            "children": [
+                                                {
+                                                    "name": "270_179_Serv. comerciales de intermediación automotriz"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_084_Comercio mayorista",
+                                    "children": [
+                                        {
+                                            "name": "181_133_Serv. comerciales de intermediación mayorista",
+                                            "children": [
+                                                {
+                                                    "name": "270_180_Serv. comerciales de intermediación mayorista"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_134_Serv. comerciales a cambio de una retribución o por contrata",
+                                            "children": [
+                                                {
+                                                    "name": "270_181_Serv. comerciales a cambio de una retribución o por contrata"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_085_Comercio minorista",
+                                    "children": [
+                                        {
+                                            "name": "181_135_Serv. comerciales de intermediación minorista",
+                                            "children": [
+                                                {
+                                                    "name": "270_182_Serv. comerciales de intermediación minorista"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_031_Servicios de restaurantes y hoteles",
+                    "children": [
+                        {
+                            "name": "89_066_Servicios de hotelería",
+                            "children": [
+                                {
+                                    "name": "110_086_Hoteles",
+                                    "children": [
+                                        {
+                                            "name": "181_136_Servicios de hotelería",
+                                            "children": [
+                                                {
+                                                    "name": "270_183_Servicios de alojamiento"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_067_Servicios de restaurantes",
+                            "children": [
+                                {
+                                    "name": "110_087_Restaurantes",
+                                    "children": [
+                                        {
+                                            "name": "181_137_Servicios de restaurantes",
+                                            "children": [
+                                                {
+                                                    "name": "270_184_Servicios de suministro de comida por contrato"
+                                                },
+                                                {
+                                                    "name": "270_185_Otros servicios de suministro de comidas y bebidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_008_Servicios empresariales",
+            "children": [
+                {
+                    "name": "45_032_Serv. empresariales",
+                    "children": [
+                        {
+                            "name": "89_068_Serv. admin. y de apoyo",
+                            "children": [
+                                {
+                                    "name": "110_088_Act. de alquiler y arrendamiento",
+                                    "children": [
+                                        {
+                                            "name": "181_138_Serv. de alquiler sin operarios",
+                                            "children": [
+                                                {
+                                                    "name": "270_186_Serv. de arredamiento con/sin opción de compra sin operarios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_089_Act. administrativas y de apoyo",
+                                    "children": [
+                                        {
+                                            "name": "181_139_Serv. de suministro de personal, limpieza, seguridad y otros de apoyo",
+                                            "children": [
+                                                {
+                                                    "name": "270_187_Serv. de empleo"
+                                                },
+                                                {
+                                                    "name": "270_188_Serv. de agencias de viaje, operadores turísticos y relacionados"
+                                                },
+                                                {
+                                                    "name": "270_189_Serv. de investigación y seguridad"
+                                                },
+                                                {
+                                                    "name": "270_190_Serv. de limpieza"
+                                                },
+                                                {
+                                                    "name": "270_191_Otros servicios auxiliares"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_069_Serv. de reparaciones",
+                            "children": [
+                                {
+                                    "name": "110_090_Rep. de maquinaria y equipo y otras industrias manufactureras",
+                                    "children": [
+                                        {
+                                            "name": "181_140_Serv. de mantenimiento y reparación de equipo de transporte",
+                                            "children": [
+                                                {
+                                                    "name": "270_192_Serv. de mantenimiento y reparación de equipo de transporte"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_141_Rep. e instalación de maquinaria y equipos; excep. transporte",
+                                            "children": [
+                                                {
+                                                    "name": "270_193_Rep. e instalaciòn de maquinaria y equipos; excep. transporte"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_091_Comercio automotriz",
+                                    "children": [
+                                        {
+                                            "name": "181_142_Serv. de mantenimiento y reparación de vehículos",
+                                            "children": [
+                                                {
+                                                    "name": "270_194_Serv. de mantenimiento y reparación, venta de partes, piezas y accesorios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_092_Otras act. de servicios personales",
+                                    "children": [
+                                        {
+                                            "name": "181_143_Rep. de art. domésticos",
+                                            "children": [
+                                                {
+                                                    "name": "270_195_Rep. de art. domésticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_070_Serv. profesionales, científicos y técnicos",
+                            "children": [
+                                {
+                                    "name": "110_093_Act. de apoyo a la agricultura y ganadería",
+                                    "children": [
+                                        {
+                                            "name": "181_144_Serv. de apoyo a la agricultura, ganadería y silvicultura",
+                                            "children": [
+                                                {
+                                                    "name": "270_196_Serv. aux para la agricultura, caza, silvicultura y pesca"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_094_Act. de arquitectura e ingeniería",
+                                    "children": [
+                                        {
+                                            "name": "181_145_Serv. de arquitectura e ingeniería",
+                                            "children": [
+                                                {
+                                                    "name": "270_197_Serv. de arquitectura, ingeniería, científicos y tecnológicos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_095_Act. de servicios jurídicos y contables",
+                                    "children": [
+                                        {
+                                            "name": "181_146_Serv. jurídicos y contables",
+                                            "children": [
+                                                {
+                                                    "name": "270_198_Serv. jurídicos y contables"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_096_Explotación de otras minas y servicios de apoyo a la minería",
+                                    "children": [
+                                        {
+                                            "name": "181_147_Serv. de exploración minera",
+                                            "children": [
+                                                {
+                                                    "name": "270_199_Serv. de exploración y evaluación minera"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_097_Otras act. profesionales, científicas y técnicas",
+                                    "children": [
+                                        {
+                                            "name": "181_148_Otros servicios profesionales, técnicos y de negocios",
+                                            "children": [
+                                                {
+                                                    "name": "270_200_Serv. de admin. empresas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_149_Investigación y desarrollo",
+                                            "children": [
+                                                {
+                                                    "name": "270_201_Serv. de investigación y desarrollo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_150_Serv. de publicidad e investigación de mercados",
+                                            "children": [
+                                                {
+                                                    "name": "270_202_Serv. de publicidad e investigación de mercados"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_151_Otros servicios profesionales, técnicos y de negocios",
+                                            "children": [
+                                                {
+                                                    "name": "270_203_Otros serv. profesionales, técnicos y de negocios"
+                                                },
+                                                {
+                                                    "name": "270_204_Serv. veterinarios"
+                                                },
+                                                {
+                                                    "name": "270_205_Serv. de producción a comisión o por contrato, relacionados con la minería"
+                                                },
+                                                {
+                                                    "name": "270_206_Serv. de producción a comisión o por contrato, relacionados con la energía"
+                                                },
+                                                {
+                                                    "name": "270_207_Serv. de producción a comisión o por contrato, relacionados con la manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_009_Servicios financieros",
+            "children": [
+                {
+                    "name": "45_033_Serv. de intermediación financiera medidos indirectamente (SIFMI)",
+                    "children": [
+                        {
+                            "name": "89_071_SIFMI",
+                            "children": [
+                                {
+                                    "name": "110_098_Intermediación financiera",
+                                    "children": [
+                                        {
+                                            "name": "181_152_SIFMI",
+                                            "children": [
+                                                {
+                                                    "name": "270_208_SIFMI"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_034_Serv. financieros no SIFMI",
+                    "children": [
+                        {
+                            "name": "89_072_Serv. de seguros",
+                            "children": [
+                                {
+                                    "name": "110_099_Act. de seguros y reaseguros",
+                                    "children": [
+                                        {
+                                            "name": "181_153_Serv. de seguros generales",
+                                            "children": [
+                                                {
+                                                    "name": "270_209_Serv. de seguro de salud otorgados por isapres"
+                                                },
+                                                {
+                                                    "name": "270_210_Seguros generales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_154_Serv. de seguro de vida",
+                                            "children": [
+                                                {
+                                                    "name": "270_211_Seguro de vida"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_073_Servicios financieros no SIFMI",
+                            "children": [
+                                {
+                                    "name": "110_100_Intermediación financiera",
+                                    "children": [
+                                        {
+                                            "name": "181_155_Serv. de intermediación financiera",
+                                            "children": [
+                                                {
+                                                    "name": "270_212_Serv. de intrmediación financiera"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_101_Auxiliares financieros",
+                                    "children": [
+                                        {
+                                            "name": "181_156_Serv. aux. de intermediación financiera",
+                                            "children": [
+                                                {
+                                                    "name": "270_213_Serv. aux. de intermediación financiera"
+                                                },
+                                                {
+                                                    "name": "270_214_Serv. de corretaje de seguros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_010_Serv. inmobiliarios y de vivienda",
+            "children": [
+                {
+                    "name": "45_035_Serv. inmobiliarios",
+                    "children": [
+                        {
+                            "name": "89_074_Serv. inmobiliarios",
+                            "children": [
+                                {
+                                    "name": "110_102_Act. inmobiliarias",
+                                    "children": [
+                                        {
+                                            "name": "181_157_Serv. inmobiliarios",
+                                            "children": [
+                                                {
+                                                    "name": "270_215_Serv. inmobiliarios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_036_Serv. de vivienda",
+                    "children": [
+                        {
+                            "name": "89_075_Serv. de vivienda",
+                            "children": [
+                                {
+                                    "name": "110_103_Serv. de vivienda",
+                                    "children": [
+                                        {
+                                            "name": "181_158_Serv. de vivienda",
+                                            "children": [
+                                                {
+                                                    "name": "270_216_Serv. de vivienda"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_011_Servicios personales",
+            "children": [
+                {
+                    "name": "45_037_Educación privada",
+                    "children": [
+                        {
+                            "name": "89_076_Educación privada",
+                            "children": [
+                                {
+                                    "name": "110_104_Educación privada",
+                                    "children": [
+                                        {
+                                            "name": "181_159_Serv. de educación privada",
+                                            "children": [
+                                                {
+                                                    "name": "270_217_Escolar"
+                                                },
+                                                {
+                                                    "name": "270_218_Superior"
+                                                },
+                                                {
+                                                    "name": "270_219_Otros servicios de educación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_038_Educación pública",
+                    "children": [
+                        {
+                            "name": "89_077_Educación pública",
+                            "children": [
+                                {
+                                    "name": "110_105_Educación pública",
+                                    "children": [
+                                        {
+                                            "name": "181_160_Serv. de educación pública",
+                                            "children": [
+                                                {
+                                                    "name": "270_220_Escolar"
+                                                },
+                                                {
+                                                    "name": "270_221_Superior"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_039_Resto de servicios",
+                    "children": [
+                        {
+                            "name": "89_078_Serv. culturales y de esparcimiento",
+                            "children": [
+                                {
+                                    "name": "110_106_Act. artísticas, entretenimiento y recreación",
+                                    "children": [
+                                        {
+                                            "name": "181_161_Serv. de esparcimiento",
+                                            "children": [
+                                                {
+                                                    "name": "270_222_Serv. artísticos y culturales"
+                                                },
+                                                {
+                                                    "name": "270_223_Otros serv. de diversión y recreación"
+                                                },
+                                                {
+                                                    "name": "270_224_Serv. deportivos y de entretenimiento"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_079_Servicios diversos",
+                            "children": [
+                                {
+                                    "name": "110_107_act. asociaciones",
+                                    "children": [
+                                        {
+                                            "name": "181_162_Serv. sociales y de asociaciones",
+                                            "children": [
+                                                {
+                                                    "name": "270_225_Serv. sociales y de asociaciones"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_108_Otras act. de serv. personales",
+                                    "children": [
+                                        {
+                                            "name": "181_163_Otros serv. personales",
+                                            "children": [
+                                                {
+                                                    "name": "270_226_Serv. de lavado, limpieza, planchado y teñido"
+                                                },
+                                                {
+                                                    "name": "270_227_Otros serv. personales"
+                                                },
+                                                {
+                                                    "name": "270_228_Serv. de funerales, cremación y entierros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_164_Serv. doméstico",
+                                            "children": [
+                                                {
+                                                    "name": "270_229_Serv. doméstico en hogares privados"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_040_Salud privada",
+                    "children": [
+                        {
+                            "name": "89_080_Salud privada",
+                            "children": [
+                                {
+                                    "name": "110_109_Salud privada y asist. social",
+                                    "children": [
+                                        {
+                                            "name": "181_165_Serv. de salud privada",
+                                            "children": [
+                                                {
+                                                    "name": "270_230_Serv. de clínicas y hospitales privados"
+                                                },
+                                                {
+                                                    "name": "270_231_Serv. de centros médicos"
+                                                },
+                                                {
+                                                    "name": "270_232_Serv. de médicos y dentistas"
+                                                },
+                                                {
+                                                    "name": "270_233_Serv. de laboratorios"
+                                                },
+                                                {
+                                                    "name": "270_234_Otros serv. de salud privada"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_041_Salud pública",
+                    "children": [
+                        {
+                            "name": "89_081_Salud pública",
+                            "children": [
+                                {
+                                    "name": "110_110_Salud pública",
+                                    "children": [
+                                        {
+                                            "name": "181_166_Serv. de salud pública",
+                                            "children": [
+                                                {
+                                                    "name": "270_235_Serv. de hospitales públicos"
+                                                },
+                                                {
+                                                    "name": "270_236_Serv. de consultorios y postas"
+                                                },
+                                                {
+                                                    "name": "270_237_Otros serv. de salud pública"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "12_012_Transporte, comunicaciones y serv. de información",
+            "children": [
+                {
+                    "name": "45_042_Comunicaciones",
+                    "children": [
+                        {
+                            "name": "89_082_Comunicaciones",
+                            "children": [
+                                {
+                                    "name": "110_111_Otras act. de telecomunicaciones",
+                                    "children": [
+                                        {
+                                            "name": "181_167_Otros serv. de telefonía",
+                                            "children": [
+                                                {
+                                                    "name": "270_238_Serv. de contenido en línea"
+                                                },
+                                                {
+                                                    "name": "270_239_Serv. de internet fijo"
+                                                },
+                                                {
+                                                    "name": "270_240_Serv. de difusión radio y TV de pago"
+                                                },
+                                                {
+                                                    "name": "270_241_Serv. integrado de telecomunicaciones (pack)"
+                                                },
+                                                {
+                                                    "name": "270_242_Otros servicios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_112_Telefonía fija y larga distancia",
+                                    "children": [
+                                        {
+                                            "name": "181_168_Serv. de telefonía fija y larga distancia",
+                                            "children": [
+                                                {
+                                                    "name": "270_243_Serv. de telefonía fija y larga distancia"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_113_Telefonía móvil",
+                                    "children": [
+                                        {
+                                            "name": "181_169_Serv. de telefonía móvil",
+                                            "children": [
+                                                {
+                                                    "name": "270_244_Serv. de telefonía móvil (voz)"
+                                                },
+                                                {
+                                                    "name": "270_245_Serv. de telefonía móvil (datos)"
+                                                },
+                                                {
+                                                    "name": "270_246_Serv. de cargo de acceso"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_043_Serv. de información",
+                    "children": [
+                        {
+                            "name": "89_083_Serv. de información",
+                            "children": [
+                                {
+                                    "name": "110_114_Act. de serv. informáticos y de información",
+                                    "children": [
+                                        {
+                                            "name": "181_170_Serv. informáticos",
+                                            "children": [
+                                                {
+                                                    "name": "270_247_Serv. de desarrollo de softwares"
+                                                },
+                                                {
+                                                    "name": "270_248_Resto de serv. informáticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_115_Otras act. de edición, producción y difusión",
+                                    "children": [
+                                        {
+                                            "name": "181_171_Serv. de edición, producción y difusión",
+                                            "children": [
+                                                {
+                                                    "name": "270_249_Serv. de edición, impresión y reproducción; grabación de sonido"
+                                                },
+                                                {
+                                                    "name": "270_250_Serv. de producción, postproducción, dist. audiovisual y proyección"
+                                                },
+                                                {
+                                                    "name": "270_251_Serv. de difusión de radio y TV abierta"
+                                                },
+                                                {
+                                                    "name": "270_252_Serv. de agencias de noticias"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "45_044_Serv. de transportes",
+                    "children": [
+                        {
+                            "name": "89_084_Act. conexas de transportes",
+                            "children": [
+                                {
+                                    "name": "110_116_Act. de almacenamiento y depósito",
+                                    "children": [
+                                        {
+                                            "name": "181_172_Almacenamiento y depósito",
+                                            "children": [
+                                                {
+                                                    "name": "270_253_Serv. conexos de depósito y almacenaje"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_117_Act. de apoyo al transporte",
+                                    "children": [
+                                        {
+                                            "name": "181_173_Serv. de carreteras, estacionamientos y estaciones de buses",
+                                            "children": [
+                                                {
+                                                    "name": "270_254_Serv. de estacionamiento"
+                                                },
+                                                {
+                                                    "name": "270_255_Serv. de explotación de carreteras, puentes y túneles"
+                                                },
+                                                {
+                                                    "name": "270_256_Serv. de estaciones de autobuses"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_118_Correo y serv. de mensajería",
+                                    "children": [
+                                        {
+                                            "name": "181_174_Serv. de correo y serv. de mensajería",
+                                            "children": [
+                                                {
+                                                    "name": "270_257_Serv. de correo y serv. de mensajería"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_119_Otras act. de apoyo al transporte",
+                                    "children": [
+                                        {
+                                            "name": "181_175_Otros conexos de transporte",
+                                            "children": [
+                                                {
+                                                    "name": "270_258_Otros serv. auxiliares y complementarios para los serv. de transporte"
+                                                },
+                                                {
+                                                    "name": "270_259_Serv. agencias de aduana"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "181_176_Serv. de puertos y aeropuertos",
+                                            "children": [
+                                                {
+                                                    "name": "270_260_Serv. de puertos, de pillotaje y salvamento"
+                                                },
+                                                {
+                                                    "name": "270_261_Serv. de aeropuertos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_085_Serv. de alquiler de medios de transporte con tripulación",
+                            "children": [
+                                {
+                                    "name": "110_120_Transporte marítimo",
+                                    "children": [
+                                        {
+                                            "name": "181_177_Serv. de arriendo de embarcaciones",
+                                            "children": [
+                                                {
+                                                    "name": "270_262_Serv. de alquiler de embarcaciones con tripulación, serv. de remolque y tracción"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_121_Transporte aéreo",
+                                    "children": [
+                                        {
+                                            "name": "181_178_Serv. de transporte aéreo y carga y arriendo de naves",
+                                            "children": [
+                                                {
+                                                    "name": "270_263_Serv. de alquiler de aeronaves con tripulación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_086_Transporte de carga",
+                            "children": [
+                                {
+                                    "name": "110_122_Transporte de carga por carretera",
+                                    "children": [
+                                        {
+                                            "name": "181_179_Serv. de transporte caminero de carga",
+                                            "children": [
+                                                {
+                                                    "name": "270_264_Serv. de transporte de carga por carretera"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_123_Transporte por tuberías (gasoductos y oleoductos)",
+                                    "children": [
+                                        {
+                                            "name": "181_180_Transporte por tuberías (gasoductos y oleoductos)",
+                                            "children": [
+                                                {
+                                                    "name": "270_265_Transporte por tuberías (gasoductos y oleoductos)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_124_Transporte marítimo",
+                                    "children": [
+                                        {
+                                            "name": "181_181_Serv. de transporte marítimo",
+                                            "children": [
+                                                {
+                                                    "name": "270_266_Serv. de transporte marítimo de carga"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_125_Transporte aéreo",
+                                    "children": [
+                                        {
+                                            "name": "181_182_Serv. de transporte aéreo y  de carga y arriendo de naves",
+                                            "children": [
+                                                {
+                                                    "name": "270_267_Serv. de transporte aéreo de carga"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "89_087_Transporte de pasajeros",
+                            "children": [
+                                {
+                                    "name": "110_126_Otros transportes terrestres de pasajeros",
+                                    "children": [
+                                        {
+                                            "name": "181_183_Serv. de transporte caminero de pasajeros",
+                                            "children": [
+                                                {
+                                                    "name": "270_268_Serv. de transporte por vía terrestre de pasajeros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_127_Transporte aéreo",
+                                    "children": [
+                                        {
+                                            "name": "181_184_Serv. de transporte aéreo de pasajeros",
+                                            "children": [
+                                                {
+                                                    "name": "270_269_Serv. de transporte aéreo de pasajeros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_128_Transporte marítimo",
+                                    "children": [
+                                        {
+                                            "name": "181_185_Serv. de transporte marítimo",
+                                            "children": [
+                                                {
+                                                    "name": "270_270_Serv. de transporte marítimo de pasajeros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "110_129_Transporte ferroviario",
+                                    "children": [
+                                        {
+                                            "name": "181_186_Serv. de transporte por ferrocarril",
+                                            "children": [
+                                                {
+                                                    "name": "270_271_Serv. de transporte por ferrocarril (metro)"
+                                                },
+                                                {
+                                                    "name": "270_272_Serv. de transporte de larga distancia de pasajeros por ferrocarril"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
