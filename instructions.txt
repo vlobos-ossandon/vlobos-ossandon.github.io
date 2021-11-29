@@ -1,0 +1,6 @@
+git status
+git add -a
+git commit -m "test"
+git push origin master
+
+python -m SimpleHTTPServer
